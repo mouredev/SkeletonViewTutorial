@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "mouredev.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
